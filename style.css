@@ -1,0 +1,29 @@
+label {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+  }
+
+
+.testbutton{
+    background-color: lightblue;
+}
+
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+
+
+body {
+    color:black;
+    background-color:white;
+    background-image:url(img/coding.png);
+    margin:0;
+    }
